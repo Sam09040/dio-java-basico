@@ -1,3 +1,5 @@
+package edu.sam.anatomiaclasses;
+
 public class MinhaClasse {
     // arquivo deve começar com letra maiúscula e a classe deve ter o mesmo nome
 
